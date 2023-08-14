@@ -71,7 +71,7 @@ The culmination of these technologies ensured that the predictive model achieved
 - **Seaborn** : Used in making statistical graphics
 - **json** : It allows you to encode and decode custom objects by using JSON encoder and decoder classes.
 - **numpy** : It provides a fast numerical array structure and operating functions.
-- s**klearn** : It provides a selection of efficient tools for machine learning and statistical modeling.
+- **sklearn** : It provides a selection of efficient tools for machine learning and statistical modeling.
 
 ## Data Cleaning
 
